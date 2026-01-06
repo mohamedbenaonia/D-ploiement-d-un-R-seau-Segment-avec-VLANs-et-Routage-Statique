@@ -97,6 +97,3 @@ Le projet a été réalisé à l’aide de **Cisco Packet Tracer** dans un conte
 
 Tous les tests confirment une **connectivité complète et stable**.
 
----
-
-## 📂 Structure du dépôt GitHub
