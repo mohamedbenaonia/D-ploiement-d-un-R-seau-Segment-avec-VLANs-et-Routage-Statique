@@ -1,0 +1,1 @@
+# D-ploiement-d-un-R-seau-Segment-avec-VLANs-et-Routage-Statique
